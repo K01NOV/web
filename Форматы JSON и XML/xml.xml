@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<root>
+    <user>
+        <name>John</name>
+        <surname>Smith</surname>
+    </user>
+    <user>
+        <name>Kyle</name>
+        <surname>Wills</surname>
+    </user>
+    <user>
+        <name>Eric</name>
+        <surname>Tailor</surname>
+    </user>
+
+    <name>John</name>
+    <name>Kyle</name>
+    <name>Eric</name>
+
+    <product cost="100" amount="3">product 1</product>
+    <product cost="200" amount="4">product 2</product>
+    <product cost="300" amount="5">product 3</product>
+</root>
